@@ -1,6 +1,10 @@
 # MERN
 
-This is a MERN project which includes React,Redux,Node and MongoDB Authentication. On the front end side, this project is built using React, react-redux, bootstrap and css framework,  that can help with building react components. On the back end side, using Node.js as a platform, express as a web framework and MongoDB as a NoSQL database. Using JWT authentication for user info, if the user is logged in then it returns a token and the client saves that token. The client uses that token each time when he tries to access the protected route. 
+This is a MERN project which includes React, Node, Express and MongoDB. On the front end side, this project is built using React, react-redux, bootstrap and css framework, that can help with building react components. On the back end side, using Node.js as a platform, express as a web framework and MongoDB as a NoSQL database. Using JWT authentication for user info, if the user is logged in then it returns a token and the client saves that token. The client uses that token each time when he tries to access the protected route. 
+
+Designed and developed responsive modules using HTML5 for creating the templates, CSS3 to style the application, with JavaScript, Bootstrap4, ReactJS, NodeJS, Express, and MongoDB. Built out a component-based architecture using ReactJS and Redux. Worked on React JS Virtual DOM and React views, rendering using components which contains custom HTML directives in JSX. Used react-router-dom for rendering to configured components such as login and logout.
+Maintained states in the stores and dispatched the actions using redux. Created controller view that interacts with store and holds data in state. Added dynamic functionality by creating and dispatching Action Creators that deployed Actions. Used Middleware, Redux-thunk and react-redux in application to asynchronously fetch and send data from server-side to produce and consume RESTful web services. Created NodeJS server-side for creating RESTful Web Services using Express and Mongoose to connect with MongoDB and authenticated the user information using JWT. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
